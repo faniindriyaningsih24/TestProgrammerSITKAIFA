@@ -36,7 +36,7 @@
 			<input type="submit" name="btn_save" value="SAVE">
 			<input type="submit" name="btn_update" value="UPDATE">
 			<input type="submit" name="btn_delete" value="DELETE">
-			
+			<a target="_blank" href="<?= base_url('index.php/LaporanDompdf') ?>">Print PDF</a>
 		</form>	
 
 		<table align="center" border="1">
