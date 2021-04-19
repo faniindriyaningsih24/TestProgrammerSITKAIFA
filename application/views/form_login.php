@@ -16,7 +16,7 @@
 	</div>
 
     <div>
-    	<strong>Copyright &copy; 2017 Fani Indriyaningsih .</strong> All rights reserved.
+    	<center><strong>Copyright &copy; 2017 Fani Indriyaningsih .</strong> All rights reserved.</center>
     </div>
 </body>
 </html>

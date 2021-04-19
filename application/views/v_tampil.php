@@ -12,6 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<thead>
 			<tr>
 				<th>No.</th>
+				<th>Kode siswa</th>
 				<th>Nama siswa</th>
 				<th>Tempat lahir</th>
 				<th>Tgl Lahir</th>
@@ -25,6 +26,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				$no++;
 				echo "<tr>";
 					echo "<td><center>".$no."</center></td>";
+					echo "<td>".$datasiswa->kd_siswa."</td>";
 					echo "<td>".$datasiswa->nama_siswa."</td>";
 					echo "<td>".$datasiswa->tempat_lahir."</td>";
 					echo "<td>".$datasiswa->tanggal_lahir."</td>";

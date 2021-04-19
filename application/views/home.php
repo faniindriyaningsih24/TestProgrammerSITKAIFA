@@ -19,6 +19,6 @@
 		<tr>
 			<td colspan="3"><strong>Copyright &copy; 2017 Fani Indriyaningsih .</strong> All rights reserved.</td>
 		</tr>
-	</table>
+	</table><
 </body>
 </html>
